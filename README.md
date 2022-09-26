@@ -1,2 +1,2 @@
 # test-page
-test pGitHub Pages feature
+test GitHub Pages feature
